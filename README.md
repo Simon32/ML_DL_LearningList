@@ -32,6 +32,8 @@ Cheetsheet（斯坦福助教给出）：
 [https://www.springer.com/cn/book/9789811359552](https://www.springer.com/cn/book/9789811359552)
 
 * 《深度学习理论与实战：提高篇》
+
+
 [http://fancyerii.github.io/2019/03/14/dl-book/](http://fancyerii.github.io/2019/03/14/dl-book/)
 
 * 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材
